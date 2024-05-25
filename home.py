@@ -1099,7 +1099,7 @@ def school_portal():
     f3.place(x=0,y=175,height=600,width=1920)       
     f4=tkinter.Frame(f3,bg="#e6e6e6")
     f4.place(x=0,y=0,height=450,width=1920)
-    image1=Image.open("C:\\Users\\ASUS\\onedrive\\Desktop\\jps.jpg")
+    image1=Image.open("C:\\Users\\ASUS\\OneDrive\\Desktop\\school1\\jps.jpg")
     photo1=ImageTk.PhotoImage(image1)
     l1=tkinter.Button(f4,image=photo1,bd=0)
     l1.place(x=0,y=0,height=450,width=1920)
